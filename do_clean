@@ -1,0 +1,3 @@
+cat ../filelist | sed "s/string[^\"]*\"//g" | sed "s/\"$//g" > ../clean
+
+for f in `cat ../clean`; do echo "$f" > $f; done

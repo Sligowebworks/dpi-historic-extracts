@@ -1,0 +1,2596 @@
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_wkce_1996-97.csv"
+  [1]=>
+  string(104) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_wkce_1996-97.csv"
+  [2]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_wkce_1996-97.csv"
+  [3]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_wkce_1996-97.csv"
+  [4]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_wkce_1997-98.csv"
+  [1]=>
+  string(104) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_wkce_1997-98.csv"
+  [2]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_wkce_1997-98.csv"
+  [3]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_wkce_1997-98.csv"
+  [4]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_wkce_1998-99.csv"
+  [1]=>
+  string(104) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_wkce_1998-99.csv"
+  [2]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_wkce_1998-99.csv"
+  [3]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_wkce_1998-99.csv"
+  [4]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_wkce_1999-00.csv"
+  [1]=>
+  string(104) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_wkce_1999-00.csv"
+  [2]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_wkce_1999-00.csv"
+  [3]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_wkce_1999-00.csv"
+  [4]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_wkce_2000-01.csv"
+  [1]=>
+  string(104) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_wkce_2000-01.csv"
+  [2]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_wkce_2000-01.csv"
+  [3]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_wkce_2000-01.csv"
+  [4]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_wkce_2001-02.csv"
+  [1]=>
+  string(104) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_wkce_2001-02.csv"
+  [2]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_wkce_2001-02.csv"
+  [3]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_wkce_2001-02.csv"
+  [4]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_all_students_combined_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_all_students_combined_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_all_students_combined_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_all_students_combined_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_all_students_combined_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*all_students_combined*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_wkce_1996-97.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_wkce_1996-97.csv"
+  [2]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_wkce_1996-97.csv"
+  [3]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_wkce_1996-97.csv"
+  [4]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_wkce_1997-98.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_wkce_1997-98.csv"
+  [2]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_wkce_1997-98.csv"
+  [3]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_wkce_1997-98.csv"
+  [4]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_wkce_1998-99.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_wkce_1998-99.csv"
+  [2]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_wkce_1998-99.csv"
+  [3]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_wkce_1998-99.csv"
+  [4]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_wkce_1999-00.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_wkce_1999-00.csv"
+  [2]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_wkce_1999-00.csv"
+  [3]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_wkce_1999-00.csv"
+  [4]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_wkce_2000-01.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_wkce_2000-01.csv"
+  [2]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_wkce_2000-01.csv"
+  [3]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_wkce_2000-01.csv"
+  [4]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_wkce_2001-02.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_wkce_2001-02.csv"
+  [2]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_wkce_2001-02.csv"
+  [3]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_wkce_2001-02.csv"
+  [4]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(6) {
+  [0]=>
+  string(105) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_gender_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_gender_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_gender_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_gender_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(106) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_gender_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*gender*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_wkce_1996-97.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_wkce_1996-97.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_wkce_1996-97.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_wkce_1996-97.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_wkce_1997-98.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_wkce_1997-98.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_wkce_1997-98.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_wkce_1997-98.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_wkce_1998-99.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_wkce_1998-99.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_wkce_1998-99.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_wkce_1998-99.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_wkce_1999-00.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_wkce_1999-00.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_wkce_1999-00.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_wkce_1999-00.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_wkce_2000-01.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_wkce_2000-01.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_wkce_2000-01.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_wkce_2000-01.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_wkce_2001-02.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_wkce_2001-02.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_wkce_2001-02.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_wkce_2001-02.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_race_ethnicity_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_race_ethnicity_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_race_ethnicity_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_race_ethnicity_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_race_ethnicity_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*race_ethnicity*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(102) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_wkce_1996-97.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_wkce_1996-97.csv"
+  [2]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_wkce_1996-97.csv"
+  [3]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_wkce_1996-97.csv"
+  [4]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(102) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_wkce_1997-98.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_wkce_1997-98.csv"
+  [2]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_wkce_1997-98.csv"
+  [3]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_wkce_1997-98.csv"
+  [4]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(102) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_wkce_1998-99.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_wkce_1998-99.csv"
+  [2]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_wkce_1998-99.csv"
+  [3]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_wkce_1998-99.csv"
+  [4]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(102) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_wkce_1999-00.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_wkce_1999-00.csv"
+  [2]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_wkce_1999-00.csv"
+  [3]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_wkce_1999-00.csv"
+  [4]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(102) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_wkce_2000-01.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_wkce_2000-01.csv"
+  [2]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_wkce_2000-01.csv"
+  [3]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_wkce_2000-01.csv"
+  [4]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(102) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_wkce_2001-02.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_wkce_2001-02.csv"
+  [2]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_wkce_2001-02.csv"
+  [3]=>
+  string(96) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_wkce_2001-02.csv"
+  [4]=>
+  string(103) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(6) {
+  [0]=>
+  string(116) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_disability_status_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_disability_status_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_disability_status_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(110) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_disability_status_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(117) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_disability_status_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*disability_status*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_wkce_1996-97.csv"
+  [1]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_wkce_1996-97.csv"
+  [2]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_wkce_1996-97.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_wkce_1996-97.csv"
+  [4]=>
+  string(101) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_wkce_1997-98.csv"
+  [1]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_wkce_1997-98.csv"
+  [2]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_wkce_1997-98.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_wkce_1997-98.csv"
+  [4]=>
+  string(101) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_wkce_1998-99.csv"
+  [1]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_wkce_1998-99.csv"
+  [2]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_wkce_1998-99.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_wkce_1998-99.csv"
+  [4]=>
+  string(101) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_wkce_1999-00.csv"
+  [1]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_wkce_1999-00.csv"
+  [2]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_wkce_1999-00.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_wkce_1999-00.csv"
+  [4]=>
+  string(101) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_wkce_2000-01.csv"
+  [1]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_wkce_2000-01.csv"
+  [2]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_wkce_2000-01.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_wkce_2000-01.csv"
+  [4]=>
+  string(101) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_wkce_2001-02.csv"
+  [1]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_wkce_2001-02.csv"
+  [2]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_wkce_2001-02.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_wkce_2001-02.csv"
+  [4]=>
+  string(101) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(6) {
+  [0]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_economic_status_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(112) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_economic_status_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_economic_status_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_economic_status_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_economic_status_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*economic_status*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_wkce_1996-97.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_wkce_1996-97.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_wkce_1996-97.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_wkce_1996-97.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_wkce_1997-98.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_wkce_1997-98.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_wkce_1997-98.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_wkce_1997-98.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_wkce_1998-99.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_wkce_1998-99.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_wkce_1998-99.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_wkce_1998-99.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_wkce_1999-00.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_wkce_1999-00.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_wkce_1999-00.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_wkce_1999-00.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_wkce_2000-01.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_wkce_2000-01.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_wkce_2000-01.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_wkce_2000-01.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(120) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_wkce_2001-02.csv"
+  [1]=>
+  string(118) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_wkce_2001-02.csv"
+  [2]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_wkce_2001-02.csv"
+  [3]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_wkce_2001-02.csv"
+  [4]=>
+  string(121) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(6) {
+  [0]=>
+  string(134) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_english_language_proficiency_status_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(132) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_english_language_proficiency_status_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_english_language_proficiency_status_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(128) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_english_language_proficiency_status_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(135) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_english_language_proficiency_status_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*english_language_proficiency_status*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_wkce_1996-97.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_wkce_1996-97.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_wkce_1996-97.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_wkce_1996-97.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_wkce_1996-97.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_wkce_1997-98.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_wkce_1997-98.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_wkce_1997-98.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_wkce_1997-98.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_wkce_1997-98.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_wkce_1998-99.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_wkce_1998-99.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_wkce_1998-99.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_wkce_1998-99.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_wkce_1998-99.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_wkce_1999-00.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_wkce_1999-00.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_wkce_1999-00.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_wkce_1999-00.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_wkce_1999-00.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_wkce_2000-01.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_wkce_2000-01.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_wkce_2000-01.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_wkce_2000-01.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_wkce_2000-01.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_wkce_2001-02.csv"
+  [1]=>
+  string(97) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_wkce_2001-02.csv"
+  [2]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_wkce_2001-02.csv"
+  [3]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_wkce_2001-02.csv"
+  [4]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_wkce_2001-02.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2002-03.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2002-03.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2002-03.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2002-03.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2002-03.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2003-04.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2003-04.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2003-04.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2003-04.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2003-04.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2004-05.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2004-05.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2004-05.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2004-05.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2004-05.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2005-06.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2005-06.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2005-06.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2005-06.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2005-06.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2006-07.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2006-07.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2006-07.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2006-07.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2006-07.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2007-08.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2007-08.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2007-08.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2007-08.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2007-08.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2008-09.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2008-09.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2008-09.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2008-09.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2008-09.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2009-10.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2009-10.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2009-10.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2009-10.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2009-10.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(6) {
+  [0]=>
+  string(113) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_language_arts_migrant_status_combined-wsas-wkce_2010-11.csv"
+  [1]=>
+  string(111) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_mathematics_migrant_status_combined-wsas-wkce_2010-11.csv"
+  [2]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_reading_migrant_status_combined-wsas-wkce_2010-11.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_science_migrant_status_combined-wsas-wkce_2010-11.csv"
+  [4]=>
+  string(114) "/var/www/dpihistoric.ginkgostreet.com/scripts/../wsas_social_studies_migrant_status_combined-wsas-wkce_2010-11.csv"
+  [5]=>
+  string(0) ""
+}
+-name 'wsas*migrant_status*'
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_1995-96.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_1995-96.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_1995-96.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_1995-96.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_1995-96.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_1995-96.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_1995-96.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_1995-96.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_1995-96.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_1995-96.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_1995-96.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_1995-96.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_1995-96.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_1995-96.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_1995-96.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_1996-97.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_1996-97.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_1996-97.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_1996-97.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_1996-97.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_1996-97.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_1996-97.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_1996-97.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_1996-97.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_1996-97.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_1996-97.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_1996-97.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_1996-97.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_1996-97.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_1996-97.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_1997-98.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_1997-98.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_1997-98.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_1997-98.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_1997-98.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_1997-98.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_1997-98.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_1997-98.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_1997-98.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_1997-98.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_1997-98.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_1997-98.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_1997-98.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_1997-98.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_1997-98.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_1998-99.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_1998-99.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_1998-99.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_1998-99.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_1998-99.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_1998-99.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_1998-99.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_1998-99.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_1998-99.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_1998-99.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_1998-99.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_1998-99.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_1998-99.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_1998-99.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_1998-99.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_1999-00.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_1999-00.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_1999-00.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_1999-00.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_1999-00.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_1999-00.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_1999-00.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_1999-00.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_1999-00.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_1999-00.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_1999-00.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_1999-00.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_1999-00.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_1999-00.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_1999-00.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2000-01.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2000-01.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2000-01.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2000-01.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2000-01.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2000-01.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2000-01.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2000-01.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2000-01.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2000-01.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2000-01.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2000-01.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2000-01.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2000-01.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2000-01.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2001-02.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2001-02.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2001-02.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2001-02.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2001-02.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2001-02.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2001-02.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2001-02.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2001-02.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2001-02.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2001-02.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2001-02.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2001-02.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2001-02.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2001-02.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2002-03.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2002-03.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2002-03.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2002-03.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2002-03.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2002-03.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2002-03.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2002-03.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2002-03.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2002-03.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2002-03.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2002-03.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2002-03.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2002-03.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2002-03.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2003-04.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2003-04.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2003-04.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2003-04.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2003-04.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2003-04.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2003-04.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2003-04.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2003-04.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2003-04.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2003-04.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2003-04.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2003-04.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2003-04.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2003-04.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2004-05.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2004-05.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2004-05.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2004-05.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2004-05.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2004-05.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2004-05.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2004-05.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2004-05.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2004-05.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2004-05.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2004-05.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2004-05.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2004-05.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2004-05.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2005-06.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2005-06.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2005-06.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2005-06.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2005-06.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2005-06.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2005-06.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2005-06.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2005-06.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2005-06.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2005-06.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2005-06.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2005-06.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2005-06.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2005-06.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2006-07.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2006-07.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2006-07.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2006-07.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2006-07.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2006-07.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2006-07.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2006-07.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2006-07.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2006-07.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2006-07.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2006-07.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2006-07.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2006-07.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2006-07.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2007-08.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2007-08.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2007-08.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2007-08.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2007-08.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2007-08.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2007-08.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2007-08.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2007-08.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2007-08.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2007-08.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2007-08.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2007-08.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2007-08.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2007-08.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2008-09.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2008-09.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2008-09.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2008-09.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2008-09.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2008-09.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2008-09.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2008-09.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2008-09.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2008-09.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2008-09.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2008-09.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2008-09.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2008-09.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2008-09.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2009-10.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2009-10.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2009-10.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2009-10.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2009-10.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2009-10.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2009-10.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2009-10.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2009-10.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2009-10.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2009-10.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2009-10.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2009-10.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2009-10.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2009-10.csv"
+  [15]=>
+  string(0) ""
+}
+array(16) {
+  [0]=>
+  string(99) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_all_subjects_2010-11.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_language_arts_2010-11.csv"
+  [2]=>
+  string(98) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_mathematics_2010-11.csv"
+  [3]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_reading_2010-11.csv"
+  [4]=>
+  string(94) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_all_students_combined_science_2010-11.csv"
+  [5]=>
+  string(84) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_all_subjects_2010-11.csv"
+  [6]=>
+  string(85) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_language_arts_2010-11.csv"
+  [7]=>
+  string(83) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_mathematics_2010-11.csv"
+  [8]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_reading_2010-11.csv"
+  [9]=>
+  string(79) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_gender_science_2010-11.csv"
+  [10]=>
+  string(92) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_all_subjects_2010-11.csv"
+  [11]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_language_arts_2010-11.csv"
+  [12]=>
+  string(91) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_mathematics_2010-11.csv"
+  [13]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_reading_2010-11.csv"
+  [14]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../act_race_ethnicity_science_2010-11.csv"
+  [15]=>
+  string(0) ""
+}
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_program_exams
+array(4) {
+  [0]=>
+  string(115) "/var/www/dpihistoric.ginkgostreet.com/scripts/../advanced_placement_program_exams_all_students_combined_1996-97.csv"
+  [1]=>
+  string(100) "/var/www/dpihistoric.ginkgostreet.com/scripts/../advanced_placement_program_exams_gender_1996-97.csv"
+  [2]=>
+  string(108) "/var/www/dpihistoric.ginkgostreet.com/scripts/../advanced_placement_program_exams_race_ethnicity_1996-97.csv"
+  [3]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+PREFIXadvanced_placement_exams
+array(1) {
+  [0]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_1996-97.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_1996-97.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_1996-97.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_1996-97.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_1996-97.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_1996-97.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_1997-98.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_1997-98.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_1997-98.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_1997-98.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_1997-98.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_1997-98.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_1998-99.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_1998-99.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_1998-99.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_1998-99.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_1998-99.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_1998-99.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_1999-00.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_1999-00.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_1999-00.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_1999-00.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_1999-00.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_1999-00.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2000-01.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2000-01.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2000-01.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2000-01.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2000-01.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2000-01.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2001-02.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2001-02.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2001-02.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2001-02.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2001-02.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2001-02.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2002-03.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2002-03.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2002-03.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2002-03.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2002-03.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2002-03.csv"
+  [6]=>
+  string(0) ""
+}
+array(7) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2003-04.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2003-04.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2003-04.csv"
+  [3]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2003-04.csv"
+  [4]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2003-04.csv"
+  [5]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2003-04.csv"
+  [6]=>
+  string(0) ""
+}
+array(8) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2004-05.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2004-05.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2004-05.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_english_language_proficiency_status_2004-05.csv"
+  [4]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2004-05.csv"
+  [5]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2004-05.csv"
+  [6]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2004-05.csv"
+  [7]=>
+  string(0) ""
+}
+array(8) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2005-06.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2005-06.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2005-06.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_english_language_proficiency_status_2005-06.csv"
+  [4]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2005-06.csv"
+  [5]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2005-06.csv"
+  [6]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2005-06.csv"
+  [7]=>
+  string(0) ""
+}
+array(8) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2006-07.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2006-07.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2006-07.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_english_language_proficiency_status_2006-07.csv"
+  [4]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2006-07.csv"
+  [5]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2006-07.csv"
+  [6]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2006-07.csv"
+  [7]=>
+  string(0) ""
+}
+array(8) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2007-08.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2007-08.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2007-08.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_english_language_proficiency_status_2007-08.csv"
+  [4]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2007-08.csv"
+  [5]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2007-08.csv"
+  [6]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2007-08.csv"
+  [7]=>
+  string(0) ""
+}
+array(8) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2008-09.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2008-09.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2008-09.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_english_language_proficiency_status_2008-09.csv"
+  [4]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2008-09.csv"
+  [5]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2008-09.csv"
+  [6]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2008-09.csv"
+  [7]=>
+  string(0) ""
+}
+array(8) {
+  [0]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_all_students_combined_2009-10.csv"
+  [1]=>
+  string(89) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_disability_status_2009-10.csv"
+  [2]=>
+  string(87) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_economic_status_2009-10.csv"
+  [3]=>
+  string(107) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_english_language_proficiency_status_2009-10.csv"
+  [4]=>
+  string(78) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_gender_2009-10.csv"
+  [5]=>
+  string(93) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_grade_level_placement_2009-10.csv"
+  [6]=>
+  string(86) "/var/www/dpihistoric.ginkgostreet.com/scripts/../attendance_race_ethnicity_2009-10.csv"
+  [7]=>
+  string(0) ""
+}
+array(1) {
+  [0]=>
+  string(0) ""
+}

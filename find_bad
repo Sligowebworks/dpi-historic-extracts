@@ -1,0 +1,1 @@
+cat log | egrep -B5 "awaiting response\.\.\. 500|awaiting response\.\.\. Read error"

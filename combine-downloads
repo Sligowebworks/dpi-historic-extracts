@@ -1,0 +1,133 @@
+#!/usr/bin/php
+<?php
+
+# WSAS
+# combine subjects for each year and group
+
+include dirname(__FILE__).'/config.php';
+
+$test_globs = false;
+#WSAS_All_Subjects_All_Students_WKCE_2007-2008.csv
+
+$files_dir = dirname(__FILE__).'/..';
+$combined_dir = $files_dir.'/combined';
+$trash = $files_dir.'/trash';
+
+if (!is_dir($combined_dir)) `mkdir $combined_dir`;
+if (!is_dir($trash)) `mkdir $trash`;
+
+#re-set prior-run
+`mv $trash/* $files_dir`;
+`rm $combined_dir/*`;
+
+# trash redundant wkce files
+#for ($n = 2003; $n <= 2012; $n++) {
+#    foreach (explode("\n", `find $files_dir -name *wkce*$n* | grep -v 'combined'`) as $file) {
+#	echo $file; echo "\n";
+#    }
+#}
+#die;
+
+#WSAS
+# One file for each view-by/school-year combination.  
+# Each file would contain rows for all five subjects.  
+# '97-'05
+
+$config = get_config();
+$config = $config['WSAS'];
+$labels = get_labels();
+
+foreach ($config['params']['Group'] as $group) {
+    $group = strtolower($labels['Group'][$group]);
+
+    for ($n = 1997; $n <= 2012; $n++) {
+
+//	if ($n > 2005 && $group == 'race_ethnicity') continue;
+
+	$year = $n-1 .'-'.substr($n,2,2);
+	$wsas_files = explode("\n", `find $files_dir -name 'wsas*$group*' | grep $year | sort`);
+	if ($test_globs)  {
+		echo "-name 'wsas*$group*'\n";
+		var_dump($file_list);
+	}
+
+	if ($group != 'AllStudentsFAY') $group_label = "by_$group";
+	$outfile = "wsas_{$group_label}_$year.csv"; 
+	catenate($wsas_files, $outfile);
+		
+    }
+}
+
+# Combine View-By :: One File per year 
+
+$configs = get_config();
+
+foreach($configs as $dataset => $config) {
+    if ($dataset == 'WSAS' || $dataset == 'Enrollment') continue;
+
+    $prefix = strtolower($config['fileprefix']);
+
+    for ($n = $config['minyear']; $n <= $config['maxyear']; $n++ ) {
+	$year = $n-1 .'-'.substr($n,2,2);
+
+	$file_list = explode("\n", `find $files_dir -name '${prefix}*${year}*' | sort`);
+
+	if ($prefix == strtolower('Advanced_Placement_Program_Exams')) { 
+		$file_prefix = 'advanced_placement_exams';
+	} else {
+		$file_prefix = $prefix;
+	}
+	$outfile = "${file_prefix}_${year}.csv";
+
+	catenate($file_list, $outfile);
+    }
+
+}
+
+# Enrollment
+# Don't combine, but re-name:
+
+$config = $configs['Enrollment'];
+$prefix = strtolower($config['fileprefix']);
+
+for ($n = $config['minyear']; $n <= $config['maxyear']; $n++ ) {
+	$year = $n-1 .'-'.substr($n,2,2);
+
+	$file_list = explode("\n", `find $files_dir -name '${prefix}*${year}*' | sort`);
+	
+	foreach ($file_list as $filename) {
+		preg_match("#{$prefix}_(.*)_{$year}#", $filename, $matches);
+		if (count($matches) < 2) continue;
+		$subj = $matches[1];
+		if ($subj != 'all_students_combined') $subj = "by_{$subj}";
+		`cp $filename $combined_dir/{$prefix}_{$subj}_{$year}`;
+		`mv $filename $trash`;
+	}
+}
+
+function catenate($files_array, $output_file) {
+global $test_globs;
+global $combined_dir;
+global $trash;
+
+    $output_file = "$combined_dir/$output_file";
+    if (!file_exists($output_file))
+	$cmd = "cat";
+    else  //strip column headers
+	$cmd = "tail -n +2";
+
+
+    if (!$test_globs) {
+	foreach($files_array as $file) {
+	    echo "catenate: $file";
+	    if (!file_exists($file)) continue;
+	    `$cmd $file >> $output_file`;
+	    `mv $file $trash`;
+	}
+    } else {
+	var_dump($files_array);
+    }
+
+}
+
+?>
