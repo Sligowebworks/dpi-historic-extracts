@@ -21,37 +21,40 @@ if (!is_dir($trash)) `mkdir $trash`;
 `rm $combined_dir/*`;
 
 # trash redundant wkce files
-#for ($n = 2003; $n <= 2012; $n++) {
-#    foreach (explode("\n", `find $files_dir -name *wkce*$n* | grep -v 'combined'`) as $file) {
-#	echo $file; echo "\n";
-#    }
-#}
-#die;
+for ($n = 2003; $n <= 2013; $n++) {
+    foreach (explode("\n", `find $files_dir -name *wkce*$n* | grep -v 'combined'`) as $file) {
+	echo "\nMove wkce file [$file] to trash;";
+	`mv $file $trash`;
+    }
+}
+
+$configs = get_config();
 
 #WSAS
 # One file for each view-by/school-year combination.  
 # Each file would contain rows for all five subjects.  
 # '97-'05
 
-$config = get_config();
-$config = $config['WSAS'];
+$config = $configs['WSAS'];
 $labels = get_labels();
 
 foreach ($config['params']['Group'] as $group) {
     $group = strtolower($labels['Group'][$group]);
+	$group_label = $group;
+	if ($group != 'all_students_combined') $group_label = "by_$group";
 
-    for ($n = 1997; $n <= 2012; $n++) {
+    //for ($n = 1997; $n <= 2012; $n++) {
+	for ($n = $config['minyear']; $n <= $config['maxyear']; $n++ ) {
 
 //	if ($n > 2005 && $group == 'race_ethnicity') continue;
 
 	$year = $n-1 .'-'.substr($n,2,2);
-	$wsas_files = explode("\n", `find $files_dir -name 'wsas*$group*' | grep $year | sort`);
+	$wsas_files = explode("\n", `find $files_dir -maxdepth 1 -name 'wsas*$group*' | grep $year | sort`);
 	if ($test_globs)  {
 		echo "-name 'wsas*$group*'\n";
 		var_dump($file_list);
 	}
 
-	if ($group != 'AllStudentsFAY') $group_label = "by_$group";
 	$outfile = "wsas_{$group_label}_$year.csv"; 
 	catenate($wsas_files, $outfile);
 		
@@ -60,17 +63,15 @@ foreach ($config['params']['Group'] as $group) {
 
 # Combine View-By :: One File per year 
 
-$configs = get_config();
-
 foreach($configs as $dataset => $config) {
-    if ($dataset == 'WSAS' || $dataset == 'Enrollment') continue;
+    if ($dataset == 'WSAS' || $dataset == 'Enrollment' ) continue;
 
     $prefix = strtolower($config['fileprefix']);
 
     for ($n = $config['minyear']; $n <= $config['maxyear']; $n++ ) {
 	$year = $n-1 .'-'.substr($n,2,2);
 
-	$file_list = explode("\n", `find $files_dir -name '${prefix}*${year}*' | sort`);
+	$file_list = explode("\n", `find $files_dir -maxdepth 1 -name '${prefix}*${year}*' | sort`);
 
 	if ($prefix == strtolower('Advanced_Placement_Program_Exams')) { 
 		$file_prefix = 'advanced_placement_exams';
@@ -87,20 +88,39 @@ foreach($configs as $dataset => $config) {
 # Enrollment
 # Don't combine, but re-name:
 
+/*$config = $configs['Primary_Disability'];
+$prefix = strtolower($config['fileprefix']);
+
+for ($n = $config['minyear']; $n <= $config['maxyear']; $n++ ) {
+	$year = $n-1 .'-'.substr($n,2,2);
+
+	$file_list = explode("\n", `find $files_dir -maxdepth 1 -name '${prefix}*${year}*' | sort`);
+
+	foreach ($file_list as $filename) {
+
+		preg_match("#{$prefix}(.*)_{$year}#", $filename, $matches);
+		if (count($matches) < 2) continue;
+		$subj = $matches[1];
+//		if ($subj != 'all_students_combined') $subj = "by_{$subj}";
+		`cp $filename $combined_dir/{$prefix}{$subj}_{$year}.csv`;
+		`mv $filename $trash`;
+	}
+}*/
+
 $config = $configs['Enrollment'];
 $prefix = strtolower($config['fileprefix']);
 
 for ($n = $config['minyear']; $n <= $config['maxyear']; $n++ ) {
 	$year = $n-1 .'-'.substr($n,2,2);
 
-	$file_list = explode("\n", `find $files_dir -name '${prefix}*${year}*' | sort`);
+	$file_list = explode("\n", `find $files_dir -maxdepth 1 -name '${prefix}*${year}*' | sort`);
 	
 	foreach ($file_list as $filename) {
 		preg_match("#{$prefix}_(.*)_{$year}#", $filename, $matches);
 		if (count($matches) < 2) continue;
 		$subj = $matches[1];
 		if ($subj != 'all_students_combined') $subj = "by_{$subj}";
-		`cp $filename $combined_dir/{$prefix}_{$subj}_{$year}`;
+		`cp $filename $combined_dir/{$prefix}_{$subj}_{$year}.csv`;
 		`mv $filename $trash`;
 	}
 }
@@ -110,21 +130,22 @@ global $test_globs;
 global $combined_dir;
 global $trash;
 
-    $output_file = "$combined_dir/$output_file";
-    if (!file_exists($output_file))
-	$cmd = "cat";
-    else  //strip column headers
-	$cmd = "tail -n +2";
-
-
-    if (!$test_globs) {
+$output_file = "$combined_dir/$output_file";
+    
+    if ($test_globs !== true) {
 	foreach($files_array as $file) {
-	    echo "catenate: $file";
+	    echo "\ncatenate: $file";
 	    if (!file_exists($file)) continue;
+
+		if (!file_exists($output_file))
+			$cmd = "cat";
+	    else  //strip column headers
+			$cmd = "tail -n +2";
+
 	    `$cmd $file >> $output_file`;
 	    `mv $file $trash`;
 	}
-    } else {
+	} else {
 	var_dump($files_array);
     }
 

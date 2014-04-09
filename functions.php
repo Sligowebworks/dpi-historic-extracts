@@ -1,7 +1,23 @@
-#!/usr/bin/php
 <?php
 
 /*** Functions ***/
+function curl_it($url, $file, $userpass) {
+		$crl = curl_init($url);
+		$fh = fopen($file, 'w');
+
+		curl_setopt($crl, CURLOPT_FILE, $fh);
+		curl_setopt($crl, CURLOPT_HEADER, 0);
+		curl_setopt($crl, CURLOPT_FOLLOWLOCATION, true);
+		if (isset($userpass)) {
+			curl_setopt($crl, CURLOPT_USERPWD, $userpass);
+			curl_setopt($crl, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
+		}
+
+		$output = curl_exec($crl);
+		curl_close($crl);
+		fclose($fh);
+		return $output;
+}
 
 function is_disabled_condition($dataset, $qs) {
     if (!is_array($qs)) $qs = qs_to_array($qs);
@@ -9,7 +25,7 @@ function is_disabled_condition($dataset, $qs) {
     switch ($dataset) {
     case 'WSAS':
         if (get_param('WOW', $qs) == 'WSAS') {
-            if (any_equals($qs, array('Level' => 'SWD', 'Level' => 'ELL'))) return true;  
+        //    if (any_equals($qs, array(array('Level','SWD'), array('Level','ELL')))) return true;  
             if (get_param('Year', $qs) < '2003') return true;
         } else {
             if (get_param('Year', $qs) > '2002') return true;
@@ -19,10 +35,15 @@ function is_disabled_condition($dataset, $qs) {
     break;
     case 'Attendance':
         //if year is < 2005 && Disability, Economic Status, English Proficiency
-        if (any_equals($qs, array('Group' => 'Disability', 'Group' => 'EconDisadv', 'Group' => 'ELP'))) {
+        if (any_equals($qs, array(array('Group', 'Disability'), array('Group','ELP'),array('Group', 'EconDisadv')))) {
             if (get_param('Year', $qs) < 2005) return true;
         }
     break;
+	case 'Primary_Disability':
+	case 'Enrollment':
+		if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
+		if (get_param('Group', $qs) == 'EconDisadv' && get_param('Year', $qs) < 2001) return true;
+		if (get_param('Group', $qs) == 'ELP' && get_param('Year', $qs) < 1999) return true;
     }
 
     return false;
@@ -32,7 +53,9 @@ function any_equals($qs, $equals) {
     if (!is_array($qs)) $qs = qs_to_array($qs);
     if (!is_array($equals) ) return null;
 
-    foreach ($equals as $key => $value) {
+    foreach ($equals as $equal) {
+		$key = $equal[0];
+		$value = $equal[1];
         if (!array_key_exists($key, $qs)) continue;
         if ($qs[$key] == $value) return true;
     }

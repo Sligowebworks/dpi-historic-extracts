@@ -2,8 +2,8 @@
 <?php
 
 $test_run = false;
-$with_file_check = true;
-$throttle = 0; # seconds between requests
+$with_file_check = true; #for partial-downloads, check to see if already downloaded
+$throttle = 20; # seconds between requests
 
 $webroot = "http://data.dpi.state.wi.us/data";
 
@@ -23,8 +23,8 @@ foreach ($urls as $file => $url) {
 
 echo `date`."requesting: $file\n";
     if (!$test_run) {
-	`wget --ignore-length --tries 1 --save-cookies cookie-jar --keep-session-cookies "$url" -O $file`;
-        //`wget "$url" -O $file`;
+	    `wget --ignore-length --tries 1 --save-cookies cookie-jar --keep-session-cookies "$url" -O $file`;
+	//	curl_it($url, $file);
         sleep($throttle);
     }
 }
