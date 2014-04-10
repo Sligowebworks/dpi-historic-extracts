@@ -19,36 +19,6 @@ function curl_it($url, $file, $userpass) {
 		return $output;
 }
 
-function is_disabled_condition($dataset, $qs) {
-    if (!is_array($qs)) $qs = qs_to_array($qs);
-  
-    switch ($dataset) {
-    case 'WSAS':
-        if (get_param('WOW', $qs) == 'WSAS') {
-        //    if (any_equals($qs, array(array('Level','SWD'), array('Level','ELL')))) return true;  
-            if (get_param('Year', $qs) < '2003') return true;
-        } else {
-            if (get_param('Year', $qs) > '2002') return true;
-        }
-//var_dump(get_param('SubjectID',$qs));
-        if (get_param('SubjectID', $qs) == '0AS') return true;
-    break;
-    case 'Attendance':
-        //if year is < 2005 && Disability, Economic Status, English Proficiency
-        if (any_equals($qs, array(array('Group', 'Disability'), array('Group','ELP'),array('Group', 'EconDisadv')))) {
-            if (get_param('Year', $qs) < 2005) return true;
-        }
-    break;
-	case 'Primary_Disability':
-	case 'Enrollment':
-		if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
-		if (get_param('Group', $qs) == 'EconDisadv' && get_param('Year', $qs) < 2001) return true;
-		if (get_param('Group', $qs) == 'ELP' && get_param('Year', $qs) < 1999) return true;
-    }
-
-    return false;
-}
-
 function any_equals($qs, $equals) {
     if (!is_array($qs)) $qs = qs_to_array($qs);
     if (!is_array($equals) ) return null;
