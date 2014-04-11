@@ -129,12 +129,12 @@ function is_disabled_condition($dataset, $qs) {
         if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
         if (get_param('Group', $qs) == 'EconDisadv' && get_param('Year', $qs) < 2001) return true;
         if (get_param('Group', $qs) == 'ELP' && get_param('Year', $qs) < 1999) return true;
+        break;
     case 'HS_Completion_legacy':
     case 'HS_Completion':
         if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
         if (( get_param('Group', $qs) == 'EconDisadv' 
             || get_param('Group', $qs) == 'ELP' ) && get_param('Year', $qs) < 2008) return true;
-        if ( && get_param('Year', $qs) < 200) return true;
         if (get_param('TmFrm', $qs) == '6' && get_param('Year', $qs) < 2012) return true;
         if (get_param('TmFrm', $qs) == '5' && get_param('Year', $qs) < 2011) return true;
         if (get_param('TmFrm', $qs) == '4' && get_param('Year', $qs) < 2010) return true;
