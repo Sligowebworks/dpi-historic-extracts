@@ -100,8 +100,7 @@ return array(
     'ACTSubj' => array('1RE' => 'Reading', '2LA' => 'Language_Arts', '3MA' => 'Mathematics', '4SC' => 'Science', '0AS' => 'All_Subjects', '5SS' => 'Social_Studies'),
     'SubjectID' => array('0AS' => 'All_Subjects', '1RE' => 'Reading', '2LA' => 'Language_Arts', '3MA' => 'Mathematics', '4SC' => 'Science', '5SS' => 'Social_Studies'),
     'WOW' => array('WSAS' => 'Combined-wsas-wkce'),
-	'HighSchoolCompletion' => array('CERT' => 'Certificate', 'HSED' => 'HSED', 'REG' => 'Regular_Diploma', 'COMB' => 'Combined'),
-	'TmFrm' => array('L' => 'Legacy_Rate', '6' => 'Six_Year_Rate', '5' => 'Five_Year_Rate', '4' => 'Four_Year_Rate'),
+    'TmFrm' => array('L' => 'Legacy_Rate', '6' => 'Six_Year_Rate', '5' => 'Five_Year_Rate', '4' => 'Four_Year_Rate'),
 );
 }
 
@@ -118,18 +117,27 @@ function is_disabled_condition($dataset, $qs) {
         }
 //var_dump(get_param('SubjectID',$qs));
         if (get_param('SubjectID', $qs) == '0AS') return true;
-    break;
+        break;
     case 'Attendance':
         //if year is < 2005 && Disability, Economic Status, English Proficiency
         if (any_equals($qs, array(array('Group', 'Disability'), array('Group','ELP'),array('Group', 'EconDisadv')))) {
             if (get_param('Year', $qs) < 2005) return true;
         }
-    break;
-	case 'Primary_Disability':
-	case 'Enrollment':
-		if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
-		if (get_param('Group', $qs) == 'EconDisadv' && get_param('Year', $qs) < 2001) return true;
-		if (get_param('Group', $qs) == 'ELP' && get_param('Year', $qs) < 1999) return true;
+        break;
+    case 'Primary_Disability':
+    case 'Enrollment':
+        if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
+        if (get_param('Group', $qs) == 'EconDisadv' && get_param('Year', $qs) < 2001) return true;
+        if (get_param('Group', $qs) == 'ELP' && get_param('Year', $qs) < 1999) return true;
+    case 'HS_Completion_legacy':
+    case 'HS_Completion':
+        if (get_param('Group', $qs) == 'Disability' && get_param('Year', $qs) < 2003) return true;
+        if (( get_param('Group', $qs) == 'EconDisadv' 
+            || get_param('Group', $qs) == 'ELP' ) && get_param('Year', $qs) < 2008) return true;
+        if ( && get_param('Year', $qs) < 200) return true;
+        if (get_param('TmFrm', $qs) == '6' && get_param('Year', $qs) < 2012) return true;
+        if (get_param('TmFrm', $qs) == '5' && get_param('Year', $qs) < 2011) return true;
+        if (get_param('TmFrm', $qs) == '4' && get_param('Year', $qs) < 2010) return true;
     }
 
     return false;
